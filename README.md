@@ -1,2 +1,2 @@
 # hello-world
-my new test repository
+branch 1 updates by hum_vzr.
